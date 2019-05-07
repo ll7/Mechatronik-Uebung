@@ -14,4 +14,4 @@ Folgende Inhalte werden behandelt:
 
 [Zweite Seite](./ZweiteSeite.md)
 
-[ModellMechSys](./ModellMechSys/ModellMechSys.md)
+[ModellMechSys](/ModellMechSys/ModellMechSys.md)
